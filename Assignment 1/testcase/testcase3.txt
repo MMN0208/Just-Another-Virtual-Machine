@@ -1,0 +1,12 @@
+iconst 8
+iconst -5
+i2f
+iconst -2
+fconst 19.120
+fstore 72
+top
+ilt
+iconst 11
+iconst -7
+i2f
+top

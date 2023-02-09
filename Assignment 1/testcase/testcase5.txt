@@ -1,0 +1,4 @@
+iconst 96
+fconst 14.138
+fmul
+top

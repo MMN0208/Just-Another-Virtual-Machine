@@ -1,0 +1,15 @@
+fconst -17.927
+fconst 10.552
+iconst 10
+top
+ilt
+iconst -8
+fconst -2.369
+fconst -6.995
+iconst -20
+fconst 2.805
+iconst -9
+isub
+iconst -20
+fconst 10.032
+top

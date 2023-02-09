@@ -1,0 +1,19 @@
+fconst 11.670
+iconst 8
+fconst 0.025
+fconst -19.560
+fadd
+top
+fadd
+iconst -10
+iconst 0
+fmul
+top
+imul
+top
+iconst 13
+fneq
+fsub
+top
+iconst 15
+top

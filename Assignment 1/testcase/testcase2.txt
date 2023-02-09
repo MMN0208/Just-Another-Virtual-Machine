@@ -1,0 +1,14 @@
+iconst -3
+iconst 2
+istore 6
+irem
+top
+fconst 16.816
+top
+fconst -6.197
+iconst -4
+fconst -17.121
+top
+fmul
+top
+iadd
